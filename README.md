@@ -14,7 +14,7 @@ BEFORE ANYTHING, RUN `npm install` while in the project's working directory.
 
 2. Start the server by running `node --harmony app.js` in the console while in the project's working directory.
 
-3. Open the browser to [http://localhost:3000]. You should see "Welcome to an EJS tutorial" on the page and "EJS Tutorial"
+3. Open the browser to <http://localhost:3000>. You should see "Welcome to an EJS tutorial" on the page and "EJS Tutorial"
     as the title of the page.
 
 4. Open views/index.ejs. It looks just like HTML so far, but let's change something. Inside the `<title>` tags, 
